@@ -1,0 +1,135 @@
+body {
+  color: #000;
+}
+.all-contain {
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+}
+.navbar-logo {
+  height: 45px;
+  padding-top: 15px;
+}
+.navigation {
+  height: 100px;
+  box-shadow: 2px 0px 10px #888888;
+}
+.navbar-nav__ul {
+  background-color: #fff;
+  padding-top: 15px;
+}
+.navbar-nav__item {
+  color: #000 !important;
+  margin-right: 30px;
+  padding-top: 15px;
+}
+.navbar-nav__btn {
+  color: white !important;
+  font-size: 15px;
+  padding: 13px 20px 13px !important;
+}
+.middle-container {
+  margin-bottom: 150px;
+}
+.middle-container__p {
+  color: #888888;
+}
+.middle-container__img {
+  position: relative;
+  box-shadow: 0px 0px 5px #888888;
+}
+.middle-container__first {
+  height: 150px;
+  position: absolute;
+  left: 1113px;
+  top: 460px;
+  opacity: 0.07;
+  z-index: -1;
+}
+.middle-container__second {
+  height: 150px;
+  position: absolute;
+  top: 890px;
+  left: 37px;
+  opacity: 0.07;
+  z-index: -1;
+}
+.middle-container__third {
+  height: 150px;
+  position: absolute;
+  top: 1320px;
+  left: 1109px;
+  opacity: 0.07;
+  z-index: -1;
+}
+.middle-container__fourth {
+  height: 150px;
+  position: absolute;
+  top: 1750px;
+  left: 37px;
+  opacity: 0.07;
+  z-index: -1;
+}
+.footer-container {
+  background-color: #1b1e29;
+  padding-top: 50px;
+  padding-bottom: 10px;
+  color: #888e9b;
+  font-weight: 500;
+}
+.footer-maincontain {
+  background: linear-gradient(180deg, #fff 60%, #1b1e29 60%);
+}
+.footer-div {
+  padding: 50px 10px;
+  background-color: white;
+  box-shadow: 0px 0px 5px #888888;
+  border-radius: 4px;
+}
+.footer-img {
+  height: 30px;
+}
+.footer_icons{
+    margin-bottom: 40px;
+}
+.footer_icons i {
+  border-radius: 50%;
+  background-color: #282b38;
+  padding: 6px 8px;
+  margin:20px 5px 20px 0;
+  color: #888e9b;
+  
+}
+.footer-email {
+  color: #888e9b;
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+.footer-form {
+  position: relative;
+}
+.footer-form input {
+height: 48px;
+width: 230px;
+padding-left: 20px;
+background-color: #E9ECF3;
+border-radius: 3px;
+}
+.footer-form input::placeholder { 
+    opacity: 0.7;
+    font-size: 14px;
+  }
+  
+.footer-form span {
+  position: absolute;
+  left: 200px;
+  top: 5px;
+  font-size: 26px;
+}
+.footer-bestwork p:first-child{
+    font-weight: 700;
+    color: #fff;
+    font-size: 20px;
+}
+.footer-copyright{
+    margin-top: 7rem;
+}
